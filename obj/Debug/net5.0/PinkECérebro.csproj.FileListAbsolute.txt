@@ -1,0 +1,16 @@
+D:\git\PinkECérebro\bin\Debug\net5.0\PinkECérebro.exe
+D:\git\PinkECérebro\bin\Debug\net5.0\PinkECérebro.deps.json
+D:\git\PinkECérebro\bin\Debug\net5.0\PinkECérebro.runtimeconfig.json
+D:\git\PinkECérebro\bin\Debug\net5.0\PinkECérebro.runtimeconfig.dev.json
+D:\git\PinkECérebro\bin\Debug\net5.0\PinkECérebro.dll
+D:\git\PinkECérebro\bin\Debug\net5.0\ref\PinkECérebro.dll
+D:\git\PinkECérebro\bin\Debug\net5.0\PinkECérebro.pdb
+D:\git\PinkECérebro\obj\Debug\net5.0\PinkECérebro.csprojAssemblyReference.cache
+D:\git\PinkECérebro\obj\Debug\net5.0\PinkECérebro.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\PinkECérebro\obj\Debug\net5.0\PinkECérebro.AssemblyInfoInputs.cache
+D:\git\PinkECérebro\obj\Debug\net5.0\PinkECérebro.AssemblyInfo.cs
+D:\git\PinkECérebro\obj\Debug\net5.0\PinkECérebro.csproj.CoreCompileInputs.cache
+D:\git\PinkECérebro\obj\Debug\net5.0\PinkECérebro.dll
+D:\git\PinkECérebro\obj\Debug\net5.0\ref\PinkECérebro.dll
+D:\git\PinkECérebro\obj\Debug\net5.0\PinkECérebro.pdb
+D:\git\PinkECérebro\obj\Debug\net5.0\PinkECérebro.genruntimeconfig.cache
